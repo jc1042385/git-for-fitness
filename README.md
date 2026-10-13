@@ -1,0 +1,1 @@
+I am learning to initialize Git, create a GitHub repository, and push my project online.
